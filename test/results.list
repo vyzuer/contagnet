@@ -1,0 +1,20 @@
+k: 1
+accuracy precision recall
+0.375920
+0.375920
+0.058201
+k: 3
+accuracy precision recall
+0.576482
+0.303571
+0.139695
+k: 5
+accuracy precision recall
+0.664238
+0.262626
+0.199544
+k: 10
+accuracy precision recall
+0.774869
+0.196116
+0.291288
